@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RFNNSR
 - 👀 I’m interested in Thinking and geting involve with problems
-- 🌱 I’m currently learning python,SQL
+- 🌱 I’m always learning
 
 <!---
 RFNNSR/RFNNSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
